@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.bg-container {
+    background-color: #fda1aa;
+    height: 100%;
+    padding: 40px;
+}
+
+.follow-us-icon-container {
+    background-color: transparent;
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    border: 5px solid #2d285d;
+    margin: 30px;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    padding-right: 19px;
+    padding-left: 16px;
+}
+
+.icon {
+    color: #2d285d;
+    font-size: 60px;
+}
+
+.heading {
+    width: 30%;
+    font-family: roboto;
+    color: #2d285d;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.span {
+    font-weight: bold;
+    font-family: roboto;
+    font-size: 20px;
+}
+
+.profile-desc {
+    margin-left: 30px;
+    color: #2d285d;
+    font-size: 19px;
+}
+
+.vl {
+    border-left: 6px solid #2d285d;
+    height: 235px;
+    position: static;
+    margin-left: 100px;
+    margin-right: 40px;
+
+
+}
+
+@media screen and (min-width:576px) {
+    .vl {
+        height: 390px;
+    }
+}
+
+@media screen and (min-width:768px) {
+    .vl {
+        height: 310px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .vl {
+        height: 300px;
+    }
+
+    .heading {
+        font-size: 80px;
+    }
+}
+
+.vl1 {
+    border-left: 6px solid #2d285d;
+    height: 320px;
+    position: static;
+    margin-left: 100px;
+    margin-right: 40px;
+    margin-bottom: -19px;
+    margin-top: -19px;
+}
+
+@media screen and (min-width:576px) {
+    .vl1 {
+        height: 290px;
+    }
+}
+
+@media screen and (min-width:992px) {
+    .vl1 {
+        height: 210px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+    .vl1 {
+        height: 300px;
+    }
+}
+
+.para {
+    font-family: Roboto;
+    font-size: 18px;
+    width: 63%;
+    color: #48254a;
+}
+
+.line {
+    border: 3px solid #2d285d;
+    width: 80%;
+    margin-right: 20px;
+    margin-top: -10px;
+}
+
+@media screen and (min-width:768px) {
+    .line {
+        width: 80%;
+    }
+}
+
+.year {
+    width: 120px;
+}
+
+.year1 {
+    width: 50px;
+}
+
+h5 {
+    width: 400px;
+}
+
+.internets-container {
+    background-color: #2d285d;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding: 15px;
+    margin-left: 150px;
+    margin-right: 30px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+.internets-container1 {
+    background-color: #2d285d;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+.internets-container2 {
+    background-color: #2d285d;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+.internets-container3 {
+    background-color: #2d285d;
+    width: 80px;
+    height: 80px;
+    border-radius: 40px;
+    padding: 15px;
+    margin-right: 30px;
+    margin-top: -40px;
+    margin-bottom: 40px;
+}
+
+.net-container {
+    margin-top: -70px;
+}
+
+.icons {
+    color: lightpink;
+    font-size: 43px;
+}
+
+.icons1 {
+    color: lightpink;
+    font-size: 45px;
+}
+
+.circle {
+    margin-left: 30px;
+}
+
+.skill {
+    width: 200px;
+    position: static;
+}
+
+.image {
+    width: 50px;
+    height: 50px;
+}
+
+.contain {
+    width: 45%;
+}
+
+.contain1 {
+    width: 45%;
+}
+
+.dot {
+    width: 100px;
+    position: static;
+}
